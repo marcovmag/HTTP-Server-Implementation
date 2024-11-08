@@ -1,10 +1,3 @@
-/*
-Member 1: Sourabh Soumyakanta Das
-Roll: 20CS30051
-Member 2: Shiladitya De
-Roll: 20CS30061
-*/
-
 // Includes
 #include <stdio.h>
 #include <stdlib.h>
